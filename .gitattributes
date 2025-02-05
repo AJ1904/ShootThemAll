@@ -1,5 +1,6 @@
 *.cs linguist-detectable=true
-*.csproj linguist-vendored
-*.sln linguist-vendored
-*.xml linguist-vendored
-*.mathematica linguist-vendored
+*.csproj linguist-detectable=true
+*.sln linguist-detectable=true
+*.meta linguist-vendored
+*.asset linguist-vendored
+
