@@ -1,5 +1,5 @@
 *.cs linguist-detectable=true
-*.mathematica linguist-detectable=false
 *.csproj linguist-vendored
 *.sln linguist-vendored
 *.xml linguist-vendored
+*.mathematica linguist-vendored
