@@ -3,4 +3,4 @@
 *.sln linguist-detectable=true
 *.meta linguist-vendored
 *.asset linguist-vendored
-
+*.xml linguist-vendored
